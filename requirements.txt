@@ -1,0 +1,7 @@
+ccxt
+feedparser
+scikit-learn
+pandas
+numpy
+scipy
+requests
